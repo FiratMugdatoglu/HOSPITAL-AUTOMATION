@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\Fýrat\Desktop\Yazýlým\Toros Univercity\6.DÖNEM DERSLERÝ\Java Programming Language-Proje\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2311340603.index
+1848586800.index
+3885976263.index
+4104260201.index
+66599731.index
+3863392577.index
+3500314872.index

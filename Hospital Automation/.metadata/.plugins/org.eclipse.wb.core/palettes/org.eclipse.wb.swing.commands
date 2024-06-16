@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="jcalendar-1.4_1711940680121"
+		name="jcalendar-1.4"
+		description="Container with import elements from C:/Users/Fýrat/eclipse-workspace/HastaneOtomasyon/jcalendar-1.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1711940680121"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1711940680121"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1711940680121"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1711940680121"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1711940680121"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1711940680121"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1711940680121"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1711940680121"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1711940680121"/>
+	<moveCategory
+		id="jcalendar-1.4_1711940680121"
+		nextCategory="org.eclipse.wb.swing.components"/>
+</commands>
